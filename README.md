@@ -1,2 +1,2 @@
 # LAB-04
-## this line is updated by Samridhdhi Varshney
+## this line is updated by Samradhi Varshney
