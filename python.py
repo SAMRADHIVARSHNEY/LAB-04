@@ -1,5 +1,5 @@
 class FlightTable:
-    def __init__(self):
+    def __init__(selffffffffffffffffffffff):
         self.matches = [
             {"Location": "Mumbai", "Team 01": "India", "Team 02": "Sri Lanka", "Timing": "DAY"},
             {"Location": "Delhi", "Team 01": "England", "Team 02": "Australia", "Timing": "DAY-NIGHT"},
